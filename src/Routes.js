@@ -10,7 +10,6 @@ import Charlotte from "./Charlotte";
 import Miami from "./Miami";
 import NewYork from "./NewYork";
 import DailyView from "./DailyView";
-import "./Routes.css";
 
 class Routes extends Component {
   render() {
