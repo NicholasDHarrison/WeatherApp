@@ -18,7 +18,7 @@ export const Charlotte = () => {
             <Card>
               <Card.Img variant="top" src={Tornado} />
               <Card.Body>
-                <Card.Title className="Tornado">THIS IS A CHANGE</Card.Title>
+                <Card.Title className="Tornado">TORNADO WARNING</Card.Title>
                 <Card.Text>
                   <Card.Text>75F°</Card.Text>
                 </Card.Text>
